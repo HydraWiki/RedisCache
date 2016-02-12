@@ -5,7 +5,7 @@
  *
  * @author		Alexia E. Smith
  * @copyright	(c) 2015 Curse Inc.
- * @license		All Rights Reserved
+ * @license		GPLv3
  * @package		RedisCache
  * @link		http://www.curse.com/
  *
