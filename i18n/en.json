@@ -1,0 +1,7 @@
+{
+	"@metadata": {
+		"authors": ["Alexia E. Smith"]
+	},
+	"rediscache": "Redis Cache",
+	"rediscache_description": "Redis shim for MediaWiki's PHP Redis implementation and Predis that provides a simple setup."
+}
